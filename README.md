@@ -1,0 +1,1 @@
+run in CLI => pip install -r ./requirements.txt
